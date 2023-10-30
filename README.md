@@ -2,7 +2,7 @@
 
 ### Pre requisit
 You need node.js as runtime for running the samples and exercises.
-1. Go to (Node.js Page)[http://nodejs.org] and download the actual LTS (long term support) version 
+1. Go to [Node.js Page](http://nodejs.org) and download the actual LTS (long term support) version 
 for your operating system.
 2. Start setup wizard. Click on all wizard windows next - EXCEPT for the native module: you do NOT need them.
 3. Check after setup with ```node --version``` if node has been installed correctly.
